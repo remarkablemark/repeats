@@ -1,0 +1,12 @@
+{
+  "name": "repeats",
+  "version": "0.0.0",
+  "description": "Repeat a string one or more times.",
+  "author": "Mark <mark@remarkablemark.org>",
+  "keywords": [
+    "repeat",
+    "string",
+    "utility"
+  ],
+  "license": "MIT"
+}
