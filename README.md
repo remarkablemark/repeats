@@ -11,6 +11,7 @@ repeats(string[, number])
 ```js
 var repeats = require('repeats');
 console.log(repeats('na', 16), 'BATMAN!');
+// nananananananananananananananana BATMAN!
 ```
 
 ## Installation
@@ -28,4 +29,4 @@ $ npm run lint
 
 ## License
 
-MIT
+[MIT](https://github.com/remarkablemark/repeats/blob/master/LICENSE)
