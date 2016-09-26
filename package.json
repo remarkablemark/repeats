@@ -8,6 +8,13 @@
     "test": "mocha",
     "lint": "eslint ."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remarkablemark/repeats"
+  },
+  "bugs": {
+    "url": "https://github.com/remarkablemark/repeats/issues"
+  },
   "keywords": [
     "repeat",
     "string",
