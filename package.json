@@ -5,7 +5,8 @@
   "author": "Mark <mark@remarkablemark.org>",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "lint": "eslint ."
   },
   "keywords": [
     "repeat",
@@ -14,6 +15,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
+    "eslint": "^3.4.0",
     "mocha": "^3.0.2"
   },
   "license": "MIT"
